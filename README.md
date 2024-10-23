@@ -8,6 +8,13 @@
 适合使用中文或日文作为游戏语言的玩家——替换中/日字库文件
 ### 3. 直接替换欧洲字库版（SrcHelios-DR-EU）
 适合使用其他语言作为游戏语言的玩家——替换欧/韩字库文件
+## 下载
+进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，按版本下载相应文件。
+
+或直接点击以下链接下载：
+- [通用版](https://github.com/LocalizedKorabli/SrcHelios/releases/download/1.0.0/SrcHelios-FC.zip)
+- [直接替换亚洲字库版](https://github.com/LocalizedKorabli/SrcHelios/releases/download/1.0.0/SrcHelios-DR-ASIA.zip)
+- [直接替换欧洲字库版](https://github.com/LocalizedKorabli/SrcHelios/releases/download/1.0.0/SrcHelios-DR-EU.zip)
 ## 安装
 1. 进入游戏目录，打开`bin`文件夹；
 2. 在`bin`文件夹内所有名称为纯数字的文件夹中，选择其中数值最高的一个或两个（若存在），分别执行下一步操作；
@@ -32,6 +39,6 @@
                         SrcHeliosMedium.ttf
     ```
 ## 效果
-### 1. 更紧凑美观的数字和西里尔字符
+### 1. 更紧凑美观的空格和西里尔字符
 
 ### 2. 更理想的多语言字符覆盖率
