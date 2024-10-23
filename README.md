@@ -39,6 +39,30 @@
                         SrcHeliosMedium.ttf
     ```
 ## 效果
-### 1. 更紧凑美观的空格和西里尔字符
+### 1. 数字和西里尔字符
 
-### 2. 更理想的多语言字符覆盖率
+#### 更紧凑的空格让数字显示更美观
+
+- 安装前：
+
+    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/469088e7-13d8-4f89-9fea-d30a00ce7f90">
+
+- 安装后：
+
+    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/f26bb205-e44d-40fc-a882-e70bf3594a51">
+
+#### 更加合理的西里尔字符宽度
+
+- 安装前后对比：
+
+    <div align="left">
+    <img src="https://github.com/user-attachments/assets/aaef3935-215b-4c5b-9cce-95c144e48152" alt="西里尔字符（安装前）" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/dc01ec4c-bdb4-411c-a022-cba238f5c96c" alt="西里尔字符（安装后）" width="300" style="margin-right: 10px;">
+    </div>
+
+
+### 2. 多语言字符覆盖率
+
+- 安装后效果：
+
+    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/98a7eb8b-ade5-4997-94b7-097c40614997">
