@@ -4,17 +4,14 @@
 ## 版本
 ### 1. 通用版（SrcHelios-FC）
 适合所有玩家——替换fontconfig.xml并引入新文件
-### 2. 直接替换亚洲字库版（SrcHelios-DR-ASIA）
-适合使用中文或日文作为游戏语言的玩家——替换中/日字库文件
-### 3. 直接替换欧洲字库版（SrcHelios-DR-EU）
-适合使用其他语言作为游戏语言的玩家——替换欧/韩字库文件
+### 2. 直接替换字库版（SrcHelios-DR）
+适合仅使用一种语言的玩家——直接替换目标语言字库文件：
+- SrcHelios-DR-CN 替换中文
+- SrcHelios-DR-JP 替换日文
+- SrcHelios-DR-EU 替换欧洲文字
+- SrcHelios-DR-KO 替换朝鲜文
 ## 下载
 进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，按版本下载相应文件；
-
-或直接点击以下链接下载：
-- [通用版](https://github.com/LocalizedKorabli/SrcHelios/releases/download/1.0.0/SrcHelios-FC.zip)
-- [直接替换亚洲字库版](https://github.com/LocalizedKorabli/SrcHelios/releases/download/1.0.0/SrcHelios-DR-ASIA.zip)
-- [直接替换欧洲字库版](https://github.com/LocalizedKorabli/SrcHelios/releases/download/1.0.0/SrcHelios-DR-EU.zip)
 
 大陆用户可通过[蓝奏云](https://tapio.lanzn.com/b0nyjuylc)下载。
 ## 安装
