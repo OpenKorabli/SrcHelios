@@ -1,17 +1,8 @@
 # SrcHelios
 ## 介绍
 为战舰世界制作的优化版字体，聚合Source Han Sans（多语言）与Warhelios字形。
-## 版本
-### 1. 通用版（SrcHelios-FC）
-适合所有玩家——替换fontconfig.xml并引入新文件
-### 2. 直接替换字库版（SrcHelios-DR）
-适合仅使用一种语言的玩家——直接替换目标语言字库文件：
-- SrcHelios-DR-CN 替换中文
-- SrcHelios-DR-JP 替换日文
-- SrcHelios-DR-EU 替换欧洲文字
-- SrcHelios-DR-KO 替换朝鲜文
 ## 下载
-进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，按版本下载相应文件；
+进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，下载`SrcHelios-Lesta.zip`；
 
 大陆用户可通过[蓝奏云](https://tapio.lanzn.com/b0nyjuylc)下载。
 ## 安装
@@ -19,18 +10,18 @@
 2. 在`bin`文件夹内所有名称为纯数字的文件夹中，选择其中数值最高的一个或两个（若存在），分别执行下一步操作；
 3. 打开数字文件夹后，再打开`res_mods`文件夹，将您下载的字体模组zip文件解压到`res_mods`文件夹中。
 
-    以`通用版`为例，若bin文件夹内符合要求的两个数字文件夹分别为“8791303”和“8788819”，最终的目录结构（已省略其他文件）应为：
+    若bin文件夹内符合要求的两个数字文件夹分别为“8807084”和“8807293”，最终的目录结构（已省略其他文件）应为：
     ```
     游戏目录
     └─bin
-        ├─8788819
+        ├─8807293
         │   └─res_mods
         │       │   fontconfig.xml
         │       └─SrcHelios
         │               SrcHeliosBold.ttf
         │               SrcHeliosMedium.ttf
         │
-        └─8791303
+        └─8807084
             └─res_mods
                 │   fontconfig.xml
                 └─SrcHelios
