@@ -1,10 +1,13 @@
 # SrcHelios
 ## 介绍
+
 为Mir Korabley制作的优化版字体，聚合Source Han Sans（多语言）与Warhelios字形。
 ## 下载
-进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，下载`SrcHelios-MK.zip`；
+
+进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，下载`SrcHelios-MK-[版本号].zip`；
 
 大陆用户可通过[蓝奏云](https://tapio.lanzn.com/b0nyjuylc)下载。
+
 ## 安装
 1. 进入游戏目录，打开`bin`文件夹；
 2. 在`bin`文件夹内所有名称为纯数字的文件夹中，选择其中数值最高的一个或两个（若存在），分别执行下一步操作；
