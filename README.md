@@ -38,19 +38,19 @@
 
 - 安装前：
 
-    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/469088e7-13d8-4f89-9fea-d30a00ce7f90">
+    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/44c4ee06-ba59-4e22-8ee9-e2a41d63898e">
 
 - 安装后：
 
-    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/f26bb205-e44d-40fc-a882-e70bf3594a51">
+    <img width="600" alt="coverage" src="https://github.com/user-attachments/assets/8bee8f99-8122-4899-853e-15d8c46b40a8">
 
 #### 更加合理的西里尔字符宽度
 
 - 安装前后对比：
 
     <div align="left">
-    <img src="https://github.com/user-attachments/assets/aaef3935-215b-4c5b-9cce-95c144e48152" alt="西里尔字符（安装前）" width="300" style="margin-right: 10px;">
-    <img src="https://github.com/user-attachments/assets/dc01ec4c-bdb4-411c-a022-cba238f5c96c" alt="西里尔字符（安装后）" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/c8bcbbb0-d87c-4b1f-92a6-cd73d18e0653" alt="西里尔字符（安装前）" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/c2dcbe78-3381-44af-b610-cc20a86d240e" alt="西里尔字符（安装后）" width="300" style="margin-right: 10px;">
     </div>
 
 
