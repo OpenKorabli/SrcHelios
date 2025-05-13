@@ -1,8 +1,8 @@
 # SrcHelios
 ## 介绍
-为战舰世界制作的优化版字体，聚合Source Han Sans（多语言）与Warhelios字形。
+为Mir Korabley制作的优化版字体，聚合Source Han Sans（多语言）与Warhelios字形。
 ## 下载
-进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，下载`SrcHelios-Lesta.zip`；
+进入[最新发布](https://github.com/LocalizedKorabli/SrcHelios/releases/latest)，下载`SrcHelios-MK.zip`；
 
 大陆用户可通过[蓝奏云](https://tapio.lanzn.com/b0nyjuylc)下载。
 ## 安装
