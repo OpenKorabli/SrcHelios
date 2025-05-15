@@ -3,6 +3,20 @@
 <fontconfig>
     <ASIA>
         <alias>
+            <embedded> $DefaultFont </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $DefaultFontBold </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosBold.ttf </path>
+            <bold> true </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
             <embedded> $WWSDefaultFont </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -32,6 +46,20 @@
         </alias>
     </ASIA>
     <CN>
+        <alias>
+            <embedded> $DefaultFont </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $DefaultFontBold </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosBold.ttf </path>
+            <bold> true </bold>
+            <italic> false </italic>
+        </alias>
         <alias>
             <embedded> $WWSDefaultFont </embedded>
             <fullName> SrcHelios </fullName>
@@ -63,6 +91,20 @@
     </CN>
     <EU>
         <alias>
+            <embedded> $DefaultFont </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $DefaultFontBold </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosBold.ttf </path>
+            <bold> true </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
             <embedded> $WWSDefaultFont </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -92,6 +134,20 @@
         </alias>
     </EU>
     <KO>
+        <alias>
+            <embedded> $DefaultFont </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $DefaultFontBold </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosBold.ttf </path>
+            <bold> true </bold>
+            <italic> false </italic>
+        </alias>
         <alias>
             <embedded> $WWSDefaultFont </embedded>
             <fullName> SrcHelios </fullName>
@@ -123,6 +179,20 @@
     </KO>
     <RU>
         <alias>
+            <embedded> $DefaultFont </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $DefaultFontBold </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosBold.ttf </path>
+            <bold> true </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
             <embedded> $WWSDefaultFont </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -152,6 +222,20 @@
         </alias>
     </RU>
     <TH>
+        <alias>
+            <embedded> $DefaultFont </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $DefaultFontBold </embedded>
+            <fullName> SrcHelios </fullName>
+            <path> SrcHelios/SrcHeliosBold.ttf </path>
+            <bold> true </bold>
+            <italic> false </italic>
+        </alias>
         <alias>
             <embedded> $WWSDefaultFont </embedded>
             <fullName> SrcHelios </fullName>
