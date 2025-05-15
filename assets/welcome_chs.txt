@@ -1,0 +1,11 @@
+欢迎使用源曜SrcHelios字体模组自解压安装包！
+
+安装包内容：
+• 源曜（SrcHelios）字体模组。
+
+若对本程序有任何意见或建议，请加入QQ群（875113509）反馈，或在https://github.com/OpenKorabli/OpenL10nInstaller/issues创建议题。
+若对字体模组有任何意见或建议，请加入QQ群（875113509）反馈，或在https://github.com/OpenKorabli/SrcHelios/issues创建议题。
+
+点击“下一步”后，安装流程将自动执行。
+
+祝您游戏愉快~

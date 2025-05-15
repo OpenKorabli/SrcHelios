@@ -1,0 +1,12 @@
+Thank you for using SrcHelios font mod by OpenKorabli.
+This is an offline installer for the font mod mentioned above.
+
+Contents included:
+• The SrcHelios font.
+
+Any suggestions about the program, please contact us by creating an issue on https://github.com/OpenKorabli/OpenL10nInstaller/issues.
+Any suggestions about the program, please contact us by creating an issue on https://github.com/OpenKorabli/SrcHelios/issues.
+
+The setup will start once you click "Next".
+
+Enjoy the game~
