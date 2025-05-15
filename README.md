@@ -1,4 +1,4 @@
-# SrcHelios
+# SrcHelios源曜
 ## 介绍
 
 为Mir Korabley制作的优化版字体，聚合Source Han Sans（多语言）与Warhelios字形。
