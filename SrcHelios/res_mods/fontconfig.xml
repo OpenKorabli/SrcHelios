@@ -44,6 +44,20 @@
             <bold> false </bold>
             <italic> false </italic>
         </alias>
+        <alias>
+            <embedded> $WoWsSymbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $Symbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
     </ASIA>
     <CN>
         <alias>
@@ -85,6 +99,20 @@
             <embedded> $IMECandidateListFont </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $WoWsSymbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $Symbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -132,6 +160,20 @@
             <bold> false </bold>
             <italic> false </italic>
         </alias>
+        <alias>
+            <embedded> $WoWsSymbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $Symbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
     </EU>
     <KO>
         <alias>
@@ -173,6 +215,20 @@
             <embedded> $IMECandidateListFont </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $WoWsSymbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $Symbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -220,6 +276,20 @@
             <bold> false </bold>
             <italic> false </italic>
         </alias>
+        <alias>
+            <embedded> $WoWsSymbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $Symbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
     </RU>
     <TH>
         <alias>
@@ -261,6 +331,20 @@
             <embedded> $IMECandidateListFont </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $WoWsSymbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <bold> false </bold>
+            <italic> false </italic>
+        </alias>
+        <alias>
+            <embedded> $Symbol </embedded>
+            <fullName> Symbol </fullName>
+            <path> SrcHelios/Compat/Symbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
