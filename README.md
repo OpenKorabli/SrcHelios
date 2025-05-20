@@ -13,23 +13,27 @@
 2. 在`bin`文件夹内所有名称为纯数字的文件夹中，选择其中数值最高的一个或两个（若存在），分别执行下一步操作；
 3. 打开数字文件夹后，再打开`res_mods`文件夹，将您下载的字体模组zip文件解压到`res_mods`文件夹中。
 
-    若bin文件夹内符合要求的两个数字文件夹分别为“8807084”和“8807293”，最终的目录结构（已省略其他文件）应为：
+    若bin文件夹内符合要求的两个数字文件夹分别为“8807293”和“8809839”，最终的目录结构（已省略其他文件）应为：
     ```
     游戏目录
     └─bin
-        ├─8807293
+        ├─8809839
         │   └─res_mods
         │       │   fontconfig.xml
         │       └─SrcHelios
-        │               SrcHeliosBold.ttf
-        │               SrcHeliosMedium.ttf
+        │           │   SrcHeliosBold.ttf
+        │           │   SrcHeliosMedium.ttf
+        │           └─Compat
+        │                   Symbol.ttf
         │
-        └─8807084
+        └─8807293
             └─res_mods
                 │   fontconfig.xml
                 └─SrcHelios
-                        SrcHeliosBold.ttf
-                        SrcHeliosMedium.ttf
+                    │   SrcHeliosBold.ttf
+                    │   SrcHeliosMedium.ttf
+                    └─Compat
+                            Symbol.ttf
     ```
 ## 效果
 ### 1. 数字和西里尔字符
