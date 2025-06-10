@@ -17,20 +17,6 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WWSDefaultFont </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosMedium.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $WWSDefaultFontBold </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosBold.ttf </path>
-            <bold> true </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
             <embedded> $IMELanguageBar </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -45,16 +31,9 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WoWsSymbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $Symbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <embedded> $MKSymbol </embedded>
+            <fullName> MKSymbol </fullName>
+            <path> SrcHelios/Compat/MKSymbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -75,20 +54,6 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WWSDefaultFont </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosMedium.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $WWSDefaultFontBold </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosBold.ttf </path>
-            <bold> true </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
             <embedded> $IMELanguageBar </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -103,16 +68,9 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WoWsSymbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $Symbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <embedded> $MKSymbol </embedded>
+            <fullName> MKSymbol </fullName>
+            <path> SrcHelios/Compat/MKSymbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -133,20 +91,6 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WWSDefaultFont </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosMedium.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $WWSDefaultFontBold </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosBold.ttf </path>
-            <bold> true </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
             <embedded> $IMELanguageBar </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -161,16 +105,9 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WoWsSymbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $Symbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <embedded> $MKSymbol </embedded>
+            <fullName> MKSymbol </fullName>
+            <path> SrcHelios/Compat/MKSymbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -191,20 +128,6 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WWSDefaultFont </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosMedium.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $WWSDefaultFontBold </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosBold.ttf </path>
-            <bold> true </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
             <embedded> $IMELanguageBar </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -219,16 +142,9 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WoWsSymbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $Symbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <embedded> $MKSymbol </embedded>
+            <fullName> MKSymbol </fullName>
+            <path> SrcHelios/Compat/MKSymbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -249,20 +165,6 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WWSDefaultFont </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosMedium.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $WWSDefaultFontBold </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosBold.ttf </path>
-            <bold> true </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
             <embedded> $IMELanguageBar </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -277,16 +179,9 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WoWsSymbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $Symbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <embedded> $MKSymbol </embedded>
+            <fullName> MKSymbol </fullName>
+            <path> SrcHelios/Compat/MKSymbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>
@@ -307,20 +202,6 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WWSDefaultFont </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosMedium.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $WWSDefaultFontBold </embedded>
-            <fullName> SrcHelios </fullName>
-            <path> SrcHelios/SrcHeliosBold.ttf </path>
-            <bold> true </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
             <embedded> $IMELanguageBar </embedded>
             <fullName> SrcHelios </fullName>
             <path> SrcHelios/SrcHeliosMedium.ttf </path>
@@ -335,16 +216,9 @@
             <italic> false </italic>
         </alias>
         <alias>
-            <embedded> $WoWsSymbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
-            <bold> false </bold>
-            <italic> false </italic>
-        </alias>
-        <alias>
-            <embedded> $Symbol </embedded>
-            <fullName> Symbol </fullName>
-            <path> SrcHelios/Compat/Symbol.ttf </path>
+            <embedded> $MKSymbol </embedded>
+            <fullName> MKSymbol </fullName>
+            <path> SrcHelios/Compat/MKSymbol.ttf </path>
             <bold> false </bold>
             <italic> false </italic>
         </alias>

@@ -1,6 +1,6 @@
 #define MyAppName "源曜SrcHelios字体（Mir Korabley）"
 #define MyAppInstallerName "源曜SrcHelios字体模组-MK"
-#define MyAppVersion "1.1.3"
+#define MyAppVersion "1.2.0"
 #define MyAppPublisher "OpenKorabli"
 #define MyAppPublisherURL "https://github.com/OpenKorabli"
 #define MyAppSupportURL "https://github.com/OpenKorabli"
